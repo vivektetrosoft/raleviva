@@ -1,0 +1,20 @@
+.header-main-one .thumbnail a {
+    padding: 0;
+    display: block;
+    max-width: max-content;
+}
+
+.rts-counter-up-area{
+    color: white;
+    font-size: 2rem;
+
+}
+
+.rts-section-gap.counter-bg{
+   margin-top: 70px;
+   /* margin-bottom: 70px; */
+}
+
+.testimonial-inner .thumbnail img{
+    border-radius: 50px;
+}
